@@ -1,0 +1,7 @@
+the system shoudld allow users to be able to sign-in and sign-out
+the system should allow to register users and authorize the scope of accessing data
+the system should be able to allow users add a new plant, update a plant or delete a plan and a garden
+the system should able to allows users to search for plants and gardens
+the system should be able to sort the plants and gardens based on name and/or plantDate
+The system should be able to maintain data of gardens and plants
+The system should allow user to sort data based on its properties like by name, by date, etc
